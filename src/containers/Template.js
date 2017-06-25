@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Home from '../containers/Home';
+import TicTacToe from '../containers/TicTacToe';
 import Profile from '../containers/Profile';
 import { Route } from 'react-router-dom';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
@@ -20,7 +20,7 @@ class Template extends Component {
           </Header>
           <Main>
             <Route exact path="/"
-              component={Home}
+              component={TicTacToe}
             />
             <Route
               path='/profile'
