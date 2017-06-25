@@ -23,6 +23,7 @@ Current state of deployed application can be found [here](http://tictacturn.hero
 * As a user, I can edit my personal information.
 
 ## To Do
+* Set up profile and authentication (remove dummy data and make dynamic)
 * Integrate with Facebook
 * Play against a person
 * Show users a leaderboard
