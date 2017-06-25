@@ -1,6 +1,8 @@
 # Tic Tac Turn
 Full stack React JS application
 
+Current state of deployed application can be found [here](http://tictacturn.herokuapp.com/) 
+
 ## Technologies used
 * React JS
 * React Router
